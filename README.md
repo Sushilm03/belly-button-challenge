@@ -5,7 +5,11 @@ All files and folders included are part of Homework(belly-button-challlenge) for
 ## Intro/Objective
 The main objective is to build an interactive dashboard to explore the Belly Button Biodiversity dataset. 
 
-### Technologies
+## Deployment
+
+This dashboard is deployed at : https://sushilm03.github.io/belly-button-challenge/
+
+## Technologies
 * JavaScript
 * D3 library
 * Plotly.js
